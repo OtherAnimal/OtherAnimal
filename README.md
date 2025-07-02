@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Personal Finance Tracker web app (private repository so far) made with Python, Flask, PostgreSQL, SQLAlchemy, Git/GitHub, CI/CD, Heroku.
-- 🌱 I’m currently learning Python as well as general topics like core computer science skills (data structures, algorithms, system design, Python). I'm also exploring data engineering path.
+- 🌱 I’m currently learning Python as well as general topics like core computer science skills (data structures, algorithms, system design, cyber security and generative AI). I'm also exploring data engineering path.
 - ⚡ What drives me: Creating programs that work :)
 
 <!--

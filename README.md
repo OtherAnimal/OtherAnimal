@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Personal Finance Tracker web app (private repository so far) made with Python, Flask, PostgreSQL, SQLAlchemy, Git/GitHub, CI/CD, Heroku.
+- 🌱 I’m currently learning Python as weel as general topics like core computer science skills (data structures, algorithms, system design, Python)
+- ⚡ What drives me: Creating programs that work :)
+
 <!--
 **OtherAnimal/OtherAnimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
